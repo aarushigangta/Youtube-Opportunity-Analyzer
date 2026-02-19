@@ -1,4 +1,4 @@
-# YouTube Content Analytics Project
+# YouTube Opportunity Analyzer 
 
 Data analysis project to help businesses and content creators make data-driven decisions about YouTube content strategy.
 
