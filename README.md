@@ -6,7 +6,10 @@ Data analysis project to help businesses and content creators make data-driven d
 
 - Analyzes 8 content genres
 - Extracts 1000 videos per genre
+- Clean and preprocess the data set in Python
 - Calculates 13 key performance metrics
+- Stores the cleaned data and summary data in MySQL
+- Validates the data in Mysql
 - Visualizes insights in Power BI
 
 ## Tech Stack
